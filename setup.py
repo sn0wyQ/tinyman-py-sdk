@@ -5,11 +5,11 @@ with open("README.md", "r") as f:
     long_description = f.read()
 
 setuptools.setup(
-    name="tinyman-py-sdk",
-    description="Tinyman Python SDK",
+    name="sn0wyq-tinyman-py-sdk",
+    description="Tinyman Python SDK (forked)",
     author="Tinyman",
     author_email="hello@tinyman.org",
-    version="2.1.1",
+    version="2.2.0",
     long_description=long_description,
     long_description_content_type="text/markdown",
     license="MIT",
